@@ -26,6 +26,8 @@ button {
   padding: 10px 20px;
   margin: auto;
   border-radius: 5px;
+  margin: 10px;
+  border-width: 4px;
 }
 
 .btn-load {
